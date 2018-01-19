@@ -9,8 +9,11 @@ HOWTO:
 On saltstack master:
 
 python3 riddle.py --cert /home/certs/cert.pem --key /home/certs/key.pem --port 8765
+
 riddle 0.5: salt 'one tenth REST' api starting.
+
 Enter token (for remote clients): ******(secret)
+
 Ok,ok I would work. Just do not hit me!
 
 
