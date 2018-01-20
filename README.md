@@ -2,11 +2,11 @@
 **Terribly simple monolithic async (tornado based) "half" REST API for saltstack.**
 
 
-##REQS:
+## REQS:
 - [tornado](https://github.com/tornadoweb/tornado) 
 
 
-##Usage:
+## Usage:
 On saltstack master:
 ```
 python3 riddle.py --cert /home/certs/cert.pem --key /home/certs/key.pem --port 8765
