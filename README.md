@@ -1,12 +1,11 @@
 # riddle
-**Terribly simple monolithic async (tornado based) "half" REST API for saltstack.**
+**Terribly simple monolithic rest api for saltstack.**
+
+## description:
+You using saltstack and for some reasons you wont/cant use default rest api, just run this one.
 
 
-## REQS:
-- [tornado](https://github.com/tornadoweb/tornado) 
-
-
-## Usage:
+## Examples:
 On saltstack master:
 ```
 python3 riddle.py --cert /home/certs/cert.pem --key /home/certs/key.pem --port 8765
