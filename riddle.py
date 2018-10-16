@@ -1,10 +1,4 @@
 #!/usr/bin/python3
-
-##############REQS###################
-#sudo pip3 install python34-tornado.x86_64
-#
-
-
 import sys
 import os
 import hashlib
